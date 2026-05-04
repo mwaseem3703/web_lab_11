@@ -1,7 +1,10 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 <p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20Logo%20Vertical/1%20Full%20Color/logo-vertical-full-color.svg" width="150" alt="Laravel Logo">
-  </a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
 # Nexus Digital - Professional Company Portfolio
@@ -37,12 +40,3 @@ A modern, high-performance company website built with **Laravel 11** and **Tailw
 - `resources/views/contact.blade.php` - Dual-column layout with working form UI.
 
 ---
-
-## ⚙️ Installation & Setup
-
-Follow these steps to get the project running locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone <https://github.com/mwaseem3703/web_lab_11>
-   cd <first-app>
