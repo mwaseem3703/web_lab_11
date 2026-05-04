@@ -1,0 +1,9 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+Route::get('/', function () { return view('home'); });
+Route::get('/profile', function () { return view('profile'); });
+Route::get('/clients', function () { return view('clients'); });
+Route::get('/products', function () { return view('products'); });
+Route::get('/contact', function () { return view('contact'); });
