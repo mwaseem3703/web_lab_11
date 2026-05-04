@@ -25,7 +25,7 @@ A modern, high-performance company website built with **Laravel 11** and **Tailw
 
 - **Framework**: [Laravel](https://laravel.com/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) (CDN-based for fast setup)
-- **Icons**: Lucide React / SVG Icons
+- **Icons**: SVG Icons
 - **Fonts**: Inter Google Font
 
 ---
@@ -40,3 +40,6 @@ A modern, high-performance company website built with **Laravel 11** and **Tailw
 - `resources/views/contact.blade.php` - Dual-column layout with working form UI.
 
 ---
+## Live Link
+- **Live Link**: [Click Here to Visit](https://nexus-main-y6hmi5.free.laravel.cloud/)
+
